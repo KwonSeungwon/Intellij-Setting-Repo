@@ -4,13 +4,16 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableFoldings" value="true" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*FATAL.*" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -53,12 +56,13 @@
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-8355712" />
+                              <option name="color" value="-12124232" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -66,11 +70,13 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-2243" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
