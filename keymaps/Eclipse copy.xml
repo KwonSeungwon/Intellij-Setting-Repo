@@ -11,11 +11,15 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
