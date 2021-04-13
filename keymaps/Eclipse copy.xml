@@ -25,4 +25,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl k" />
     <keyboard-shortcut first-keystroke="shift ctrl alt 3" />
   </action>
+  <action id="action.DialogTranslateAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="action.impl.Replacer">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+  </action>
+  <action id="action.impl.Translator">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
 </keymap>
