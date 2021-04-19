@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="filter From Department List" />
       <item value="origin" />
       <item value="치과&#10;" />
       <item value="is Dentist" />
@@ -41,6 +42,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618278570996" />
+    <option name="lastTrimTime" value="1618799572147" />
   </component>
 </application>
