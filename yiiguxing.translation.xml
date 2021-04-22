@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="'set(int, io.linkall.narae.erp.core.model.checkup.CheckupResult.Header)' in 'java.util.List' cannot be applied to '(java.util.List&lt;io.linkall.narae.erp.core.model.checkup.CheckupResult.Header&gt;)'" />
+      <item value="get" />
+      <item value="get Headers" />
       <item value="allowed" />
       <item value="instead" />
       <item value="is Dentist" />
