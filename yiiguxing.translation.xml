@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="완료" />
       <item value="'add(io.linkall.narae.erp.core.model.checkup.CheckupResult.Header)' in 'java.util.List' cannot be applied to '(java.util.List&lt;io.linkall.narae.erp.core.model.checkup.CheckupResult.Header&gt;)'" />
       <item value="Header List Attribute Conveter" />
       <item value="'set(int, io.linkall.narae.erp.core.model.checkup.CheckupResult.Header)' in 'java.util.List' cannot be applied to '(java.util.List&lt;io.linkall.narae.erp.core.model.checkup.CheckupResult.Header&gt;)'" />
@@ -49,6 +50,6 @@
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618799572147" />
+    <option name="lastTrimTime" value="1619673887643" />
   </component>
 </application>
