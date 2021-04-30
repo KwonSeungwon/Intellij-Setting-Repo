@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="변경" />
+      <item value="q" />
       <item value="원본" />
       <item value="이전" />
       <item value="ㅇ" />
@@ -52,8 +54,6 @@
       <item value="Count" />
       <item value="page Count" />
       <item value="set Exercised Time" />
-      <item value="valid Smoking" />
-      <item value="hello world&#10;" />
     </histories>
   </component>
   <component name="Cache">
