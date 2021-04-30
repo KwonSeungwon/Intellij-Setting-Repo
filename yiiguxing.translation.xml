@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="이전" />
+      <item value="ㅇ" />
+      <item value="compare" />
+      <item value="문진표비교" />
+      <item value="Sheets" />
+      <item value="checkup" />
+      <item value="checkup Sheets" />
+      <item value="스캠&#10;" />
       <item value="완료" />
       <item value="'add(io.linkall.narae.erp.core.model.checkup.CheckupResult.Header)' in 'java.util.List' cannot be applied to '(java.util.List&lt;io.linkall.narae.erp.core.model.checkup.CheckupResult.Header&gt;)'" />
       <item value="Header List Attribute Conveter" />
@@ -46,7 +54,6 @@
       <item value="valid Smoking" />
       <item value="hello world&#10;" />
       <item value="hello world" />
-      <item value="안녕하세요&#10;" />
     </histories>
   </component>
   <component name="Cache">
