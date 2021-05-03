@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="Variable selectedMenuValue implicitly declared" />
       <item value="이전" />
       <item value="d" />
       <item value="변경" />
@@ -53,7 +54,6 @@
       <item value="test&#10;" />
       <item value="Time" />
       <item value="Count" />
-      <item value="page Count" />
     </histories>
   </component>
   <component name="Cache">
