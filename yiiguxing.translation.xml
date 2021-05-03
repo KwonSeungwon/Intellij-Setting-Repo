@@ -4,10 +4,11 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="이전" />
+      <item value="d" />
       <item value="변경" />
       <item value="q" />
       <item value="원본" />
-      <item value="이전" />
       <item value="ㅇ" />
       <item value="compare" />
       <item value="문진표비교" />
@@ -53,7 +54,6 @@
       <item value="Time" />
       <item value="Count" />
       <item value="page Count" />
-      <item value="set Exercised Time" />
     </histories>
   </component>
   <component name="Cache">
