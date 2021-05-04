@@ -4,16 +4,18 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="현재" />
+      <item value="ㅇ" />
+      <item value="변경" />
+      <item value="qusrud" />
       <item value="save Checkup Sheet Data" />
       <item value="complete And Target Checker" />
       <item value="Checker" />
       <item value="Variable selectedMenuValue implicitly declared" />
       <item value="이전" />
       <item value="d" />
-      <item value="변경" />
       <item value="q" />
       <item value="원본" />
-      <item value="ㅇ" />
       <item value="compare" />
       <item value="문진표비교" />
       <item value="Sheets" />
@@ -52,8 +54,6 @@
       <item value="set Result List" />
       <item value="One" />
       <item value="valid Page One" />
-      <item value="Checked" />
-      <item value="valid Not Checked" />
     </histories>
   </component>
   <component name="Cache">
