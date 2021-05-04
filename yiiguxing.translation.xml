@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="2개이상" />
+      <item value="add" />
       <item value="현재" />
       <item value="ㅇ" />
       <item value="변경" />
@@ -52,11 +54,9 @@
       <item value="document" />
       <item value="current Progress" />
       <item value="set Result List" />
-      <item value="One" />
-      <item value="valid Page One" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619673887643" />
+    <option name="lastTrimTime" value="1620111370142" />
   </component>
 </application>
