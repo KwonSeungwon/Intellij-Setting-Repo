@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="save Checkup Sheet Data" />
+      <item value="complete And Target Checker" />
+      <item value="Checker" />
       <item value="Variable selectedMenuValue implicitly declared" />
       <item value="이전" />
       <item value="d" />
@@ -51,9 +54,6 @@
       <item value="valid Page One" />
       <item value="Checked" />
       <item value="valid Not Checked" />
-      <item value="test&#10;" />
-      <item value="Time" />
-      <item value="Count" />
     </histories>
   </component>
   <component name="Cache">
