@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="modified" />
+      <item value="modify" />
       <item value="중복" />
       <item value="wndqhsd" />
       <item value="is Changed" />
@@ -52,8 +54,6 @@
       <item value="Auto" />
       <item value="is Life Cycle Target" />
       <item value="Target" />
-      <item value="is" />
-      <item value="Visited" />
     </histories>
   </component>
   <component name="Cache">
