@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="is Changed" />
+      <item value="is Compare" />
       <item value="2개이상" />
       <item value="add" />
       <item value="현재" />
@@ -52,8 +54,6 @@
       <item value="Visited" />
       <item value="At" />
       <item value="document" />
-      <item value="current Progress" />
-      <item value="set Result List" />
     </histories>
   </component>
   <component name="Cache">
