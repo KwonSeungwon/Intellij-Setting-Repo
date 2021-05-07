@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="중복" />
+      <item value="wndqhsd" />
       <item value="is Changed" />
       <item value="is Compare" />
       <item value="2개이상" />
@@ -52,8 +54,6 @@
       <item value="Target" />
       <item value="is" />
       <item value="Visited" />
-      <item value="At" />
-      <item value="document" />
     </histories>
   </component>
   <component name="Cache">
