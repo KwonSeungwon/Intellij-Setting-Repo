@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="get Checkup Sheet From Screen Code" />
       <item value="modified" />
       <item value="modify" />
       <item value="중복" />
@@ -53,10 +54,15 @@
       <item value="is Auto Next Page" />
       <item value="Auto" />
       <item value="is Life Cycle Target" />
-      <item value="Target" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620111370142" />
+    <option name="lastTrimTime" value="1620721108783" />
   </component>
 </application>
