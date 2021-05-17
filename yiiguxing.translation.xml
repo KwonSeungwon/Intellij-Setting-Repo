@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="이전" />
       <item value="sixty" />
       <item value="계산" />
       <item value="clac Drink Count" />
@@ -25,7 +26,6 @@
       <item value="complete And Target Checker" />
       <item value="Checker" />
       <item value="Variable selectedMenuValue implicitly declared" />
-      <item value="이전" />
       <item value="d" />
       <item value="q" />
       <item value="원본" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="KOREAN" value="6" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="KOREAN" value="7" />
       </map>
     </option>
   </component>
