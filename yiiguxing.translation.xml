@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="sixty" />
       <item value="계산" />
       <item value="clac Drink Count" />
       <item value="술" />
@@ -53,16 +54,15 @@
       <item value="check List Internal" />
       <item value="아오실발&#10;" />
       <item value="Jubsu Table" />
-      <item value="is Visited At" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="KOREAN" value="5" />
+        <entry key="KOREAN" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620721108783" />
+    <option name="lastTrimTime" value="1621222119845" />
   </component>
 </application>
