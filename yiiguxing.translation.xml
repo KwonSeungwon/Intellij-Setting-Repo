@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="관심분야" />
+      <item value="r" />
       <item value="이전" />
       <item value="sixty" />
       <item value="계산" />
@@ -52,13 +54,11 @@
       <item value="Internal" />
       <item value="check" />
       <item value="check List Internal" />
-      <item value="아오실발&#10;" />
-      <item value="Jubsu Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="KOREAN" value="8" />
       </map>
     </option>
   </component>
