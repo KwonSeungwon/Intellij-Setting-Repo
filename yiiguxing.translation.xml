@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="PRIOR" />
       <item value="checkup Sheet Complete Calc" />
       <item value="calc Checkup Sheet Complete" />
       <item value="권고사직" />
@@ -53,12 +54,11 @@
       <item value="filter From Department List" />
       <item value="origin" />
       <item value="치과&#10;" />
-      <item value="is Auto Refresh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="10" />
-        <entry key="KOREAN" value="10" />
+        <entry key="KOREAN" value="11" />
       </map>
     </option>
   </component>
