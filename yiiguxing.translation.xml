@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="TODO Auto-generated method stub" />
+      <item value="2102260003" />
       <item value="수정" />
       <item value="답변" />
       <item value="합계" />
@@ -52,13 +54,11 @@
       <item value="get" />
       <item value="get Headers" />
       <item value="allowed" />
-      <item value="instead" />
-      <item value="is Dentist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="KOREAN" value="13" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="KOREAN" value="14" />
       </map>
     </option>
   </component>
