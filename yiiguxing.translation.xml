@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="unable to authorize current user, internal server error&#10;" />
+      <item value="internal" />
       <item value="~없는" />
       <item value="공인중개사" />
       <item value="부동산" />
@@ -52,13 +54,11 @@
       <item value="checkup" />
       <item value="checkup Sheets" />
       <item value="스캠&#10;" />
-      <item value="완료" />
-      <item value="'add(io.linkall.narae.erp.core.model.checkup.CheckupResult.Header)' in 'java.util.List' cannot be applied to '(java.util.List&lt;io.linkall.narae.erp.core.model.checkup.CheckupResult.Header&gt;)'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="19" />
-        <entry key="KOREAN" value="20" />
+        <entry key="KOREAN" value="22" />
       </map>
     </option>
   </component>
