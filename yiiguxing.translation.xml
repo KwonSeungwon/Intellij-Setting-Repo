@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="payLoad" />
       <item value="~통해" />
       <item value="감시자" />
       <item value="Exception" />
@@ -53,12 +54,11 @@
       <item value="Variable selectedMenuValue implicitly declared" />
       <item value="d" />
       <item value="q" />
-      <item value="원본" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="29" />
+        <entry key="KOREAN" value="30" />
       </map>
     </option>
   </component>
