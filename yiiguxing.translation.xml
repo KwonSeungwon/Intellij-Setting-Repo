@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="Invoked method public abstract org.springframework.web.servlet.ModelAndView ngineeus.lucia.webs.payload.Payload.toModelAndView(java.lang.String) is no accessor method!" />
       <item value=" Invoked method public abstract" />
       <item value="Extenrnal" />
       <item value="Exten" />
@@ -53,12 +54,11 @@
       <item value="현재" />
       <item value="ㅇ" />
       <item value="변경" />
-      <item value="qusrud" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="32" />
+        <entry key="KOREAN" value="33" />
       </map>
     </option>
   </component>
