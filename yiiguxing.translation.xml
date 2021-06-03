@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="Extenrnal" />
+      <item value="Exten" />
+      <item value="Exte" />
+      <item value="Ex" />
+      <item value="E" />
       <item value="payLoad" />
       <item value="~통해" />
       <item value="감시자" />
@@ -49,16 +54,11 @@
       <item value="변경" />
       <item value="qusrud" />
       <item value="save Checkup Sheet Data" />
-      <item value="complete And Target Checker" />
-      <item value="Checker" />
-      <item value="Variable selectedMenuValue implicitly declared" />
-      <item value="d" />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="25" />
-        <entry key="KOREAN" value="30" />
+        <entry key="KOREAN" value="31" />
       </map>
     </option>
   </component>
