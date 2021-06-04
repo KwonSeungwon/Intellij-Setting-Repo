@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="328" />
     <histories>
+      <item value="위치" />
       <item value="Local variable 'value' is redundant" />
       <item value="문제" />
       <item value="Unreachable statement" />
@@ -55,7 +56,6 @@
       <item value="술" />
       <item value="get Checkup Sheet From Screen Code" />
       <item value="modified" />
-      <item value="modify" />
     </histories>
     <option name="languageScores">
       <map>
