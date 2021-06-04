@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="327" />
     <histories>
+      <item value="regist Pcs Inf" />
       <item value="Field payload in com.example.toy.controller.BaseController required a bean of type 'ngineeus.lucia.webs.payload.Payload' that could not be found.&#10;" />
       <item value="The injection point has the following annotations:&#10;&#9;- @org.springframework.beans.factory.annotation.Autowired(required=true)" />
       <item value="Consider defining a bean of type 'ngineeus.lucia.webs.payload.Payload' in your configuration.&#10;" />
@@ -53,11 +54,10 @@
       <item value="중복" />
       <item value="wndqhsd" />
       <item value="is Changed" />
-      <item value="is Compare" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="KOREAN" value="37" />
       </map>
     </option>
