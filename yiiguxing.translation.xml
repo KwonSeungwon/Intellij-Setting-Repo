@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="556" />
+    <option name="newTranslationDialogWidth" value="554" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="328" />
     <histories>
+      <item value="Argument type 'long' does not match the type of the format specifier '%.3f'" />
+      <item value="Argument type 'int' does not match the type of the format specifier '%.3f'" />
+      <item value="Argument type 'int' does not match the type of the format specifier '%.3f'. 'sum / Integer.parseInt(scores[0])': integer division in floating-point context. " />
+      <item value="persones" />
+      <item value="응시자" />
       <item value="Variable 'answer' is not updated inside loop" />
       <item value="개수" />
       <item value="곱셈" />
@@ -51,16 +56,11 @@
       <item value="권고사직" />
       <item value="rnjsr" />
       <item value="관심분야" />
-      <item value="r" />
-      <item value="이전" />
-      <item value="sixty" />
-      <item value="계산" />
-      <item value="clac Drink Count" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="29" />
-        <entry key="KOREAN" value="43" />
+        <entry key="KOREAN" value="47" />
       </map>
     </option>
   </component>
