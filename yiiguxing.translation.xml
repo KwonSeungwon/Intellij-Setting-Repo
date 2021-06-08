@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="328" />
     <histories>
+      <item value="'target / (scores.length - 1)': integer division in floating-point context" />
       <item value="Argument type 'long' does not match the type of the format specifier '%.3f'" />
       <item value="Argument type 'int' does not match the type of the format specifier '%.3f'" />
       <item value="Argument type 'int' does not match the type of the format specifier '%.3f'. 'sum / Integer.parseInt(scores[0])': integer division in floating-point context. " />
@@ -55,12 +56,11 @@
       <item value="calc Checkup Sheet Complete" />
       <item value="권고사직" />
       <item value="rnjsr" />
-      <item value="관심분야" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="29" />
-        <entry key="KOREAN" value="47" />
+        <entry key="KOREAN" value="48" />
       </map>
     </option>
   </component>
