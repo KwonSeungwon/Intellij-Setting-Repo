@@ -2,10 +2,15 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="-1230" />
     <option name="newTranslationDialogY" value="328" />
     <histories>
+      <item value="wire Beans" />
+      <item value="audit" />
+      <item value="audits" />
+      <item value="audits " />
+      <item value="appointmentEntryaudits " />
       <item value="'target / (scores.length - 1)': integer division in floating-point context" />
       <item value="Argument type 'long' does not match the type of the format specifier '%.3f'" />
       <item value="Argument type 'int' does not match the type of the format specifier '%.3f'" />
@@ -51,16 +56,11 @@
       <item value="수정" />
       <item value="답변" />
       <item value="합계" />
-      <item value="PRIOR" />
-      <item value="checkup Sheet Complete Calc" />
-      <item value="calc Checkup Sheet Complete" />
-      <item value="권고사직" />
-      <item value="rnjsr" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="29" />
-        <entry key="KOREAN" value="48" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="KOREAN" value="50" />
       </map>
     </option>
   </component>
