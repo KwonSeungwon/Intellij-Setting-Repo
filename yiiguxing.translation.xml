@@ -4,6 +4,7 @@
     <option name="newTranslationDialogHeight" value="242" />
     <option name="newTranslationDialogWidth" value="552" />
     <histories>
+      <item value="중복" />
       <item value="정적인메소드" />
       <item value="initialize" />
       <item value="오늘 날씨 어떄?" />
@@ -53,7 +54,6 @@
       <item value="internal" />
       <item value="~없는" />
       <item value="공인중개사" />
-      <item value="부동산" />
     </histories>
     <option name="languageScores">
       <map>
