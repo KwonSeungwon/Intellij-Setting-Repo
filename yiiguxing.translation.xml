@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="개수" />
       <item value="개선" />
       <item value="고도화" />
       <item value="i`m crying too," />
@@ -29,7 +30,6 @@
       <item value="persones" />
       <item value="응시자" />
       <item value="Variable 'answer' is not updated inside loop" />
-      <item value="개수" />
       <item value="곱셈" />
       <item value="위치" />
       <item value="Local variable 'value' is redundant" />
@@ -59,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="39" />
-        <entry key="KOREAN" value="55" />
+        <entry key="ENGLISH" value="40" />
+        <entry key="KOREAN" value="56" />
       </map>
     </option>
   </component>
