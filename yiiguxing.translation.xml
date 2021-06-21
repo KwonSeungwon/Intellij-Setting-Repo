@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="다수" />
       <item value="Type may be primitive" />
       <item value="'io.linkall.narae.emr.core.demand.PacsDemand.PacsItemDemand' is not public in 'io.linkall.narae.emr.core.demand.PacsDemand'. Cannot be accessed from outside package" />
       <item value="Unsatisfied" />
@@ -55,12 +56,11 @@
       <item value="E" />
       <item value="payLoad" />
       <item value="~통해" />
-      <item value="감시자" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="41" />
-        <entry key="KOREAN" value="61" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="KOREAN" value="62" />
       </map>
     </option>
   </component>
