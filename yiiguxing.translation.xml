@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="terminate" />
+      <item value="ter" />
       <item value="개수" />
       <item value="개선" />
       <item value="고도화" />
@@ -54,17 +56,15 @@
       <item value="Exception" />
       <item value="Exce" />
       <item value="Exc" />
-      <item value="Excution" />
-      <item value="unable to authorize current user, internal server error&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="40" />
-        <entry key="KOREAN" value="56" />
+        <entry key="ENGLISH" value="41" />
+        <entry key="KOREAN" value="58" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623635656202" />
+    <option name="lastTrimTime" value="1624243259420" />
   </component>
 </application>
