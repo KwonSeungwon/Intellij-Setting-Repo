@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Type may be primitive" />
+      <item value="'io.linkall.narae.emr.core.demand.PacsDemand.PacsItemDemand' is not public in 'io.linkall.narae.emr.core.demand.PacsDemand'. Cannot be accessed from outside package" />
       <item value="Unsatisfied" />
       <item value="terminate" />
       <item value="ter" />
@@ -54,13 +56,11 @@
       <item value="payLoad" />
       <item value="~통해" />
       <item value="감시자" />
-      <item value="Exception" />
-      <item value="Exce" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="41" />
-        <entry key="KOREAN" value="59" />
+        <entry key="KOREAN" value="61" />
       </map>
     </option>
   </component>
