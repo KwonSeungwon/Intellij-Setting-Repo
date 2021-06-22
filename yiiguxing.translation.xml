@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogWidth" value="546" />
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="TypeError: Converting circular structure to JSON&#10;    --&gt; starting at object with constructor 'Object'&#10;    |     property 'pacsItemList' -&gt; object with constructor 'Array'&#10;    --- index 0 closes the circle&#10;    at JSON.stringify (&lt;anonymous&gt;)&#10;    at a.transformRequest (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:1582)&#10;    at http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8713&#10;    at Object.v [as forEach] (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:2:2069)&#10;    at e.exports (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8689)&#10;    at e.exports (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8136)" />
       <item value="no more" />
       <item value="more" />
       <item value="다수" />
@@ -55,12 +56,11 @@
       <item value="Exten" />
       <item value="Exte" />
       <item value="Ex" />
-      <item value="E" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="44" />
-        <entry key="KOREAN" value="65" />
+        <entry key="KOREAN" value="66" />
       </map>
     </option>
   </component>
