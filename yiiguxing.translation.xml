@@ -6,6 +6,12 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="mine" />
+      <item value="I" />
+      <item value="other" />
+      <item value="me" />
+      <item value="ㄴ" />
+      <item value="나" />
       <item value="deserialize" />
       <item value="정의하다" />
       <item value="TypeError: Converting circular structure to JSON&#10;    --&gt; starting at object with constructor 'Object'&#10;    |     property 'pacsItemList' -&gt; object with constructor 'Array'&#10;    --- index 0 closes the circle&#10;    at JSON.stringify (&lt;anonymous&gt;)&#10;    at a.transformRequest (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:1582)&#10;    at http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8713&#10;    at Object.v [as forEach] (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:2:2069)&#10;    at e.exports (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8689)&#10;    at e.exports (http://localhost:8080/resources/lib/axios.min.js?v=0.18.0:8:8136)" />
@@ -50,17 +56,11 @@
       <item value="Field payload in com.example.toy.controller.BaseController required a bean of type 'ngineeus.lucia.webs.payload.Payload' that could not be found.&#10;" />
       <item value="The injection point has the following annotations:&#10;&#9;- @org.springframework.beans.factory.annotation.Autowired(required=true)" />
       <item value="Consider defining a bean of type 'ngineeus.lucia.webs.payload.Payload' in your configuration.&#10;" />
-      <item value="accessor" />
-      <item value="accessor " />
-      <item value="Invoked method public abstract org.springframework.web.servlet.ModelAndView ngineeus.lucia.webs.payload.Payload.toModelAndView(java.lang.String) is no accessor method!" />
-      <item value=" Invoked method public abstract" />
-      <item value="Extenrnal" />
-      <item value="Exten" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="45" />
-        <entry key="KOREAN" value="68" />
+        <entry key="ENGLISH" value="49" />
+        <entry key="KOREAN" value="73" />
       </map>
     </option>
   </component>
