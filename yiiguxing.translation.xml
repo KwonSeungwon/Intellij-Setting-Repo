@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="예비" />
+      <item value="d" />
       <item value="When I find myself in times of trouble, Mother Mary comes to me&#10;Speaking words of wisdom, let it be&#10;And in my hour of darkness she is standing right in front of me&#10;Speaking words of wisdom, let it be" />
       <item value="mine" />
       <item value="I" />
@@ -54,13 +56,11 @@
       <item value="문제" />
       <item value="Unreachable statement" />
       <item value="regist Pcs Inf" />
-      <item value="Field payload in com.example.toy.controller.BaseController required a bean of type 'ngineeus.lucia.webs.payload.Payload' that could not be found.&#10;" />
-      <item value="The injection point has the following annotations:&#10;&#9;- @org.springframework.beans.factory.annotation.Autowired(required=true)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="49" />
-        <entry key="KOREAN" value="74" />
+        <entry key="ENGLISH" value="50" />
+        <entry key="KOREAN" value="75" />
       </map>
     </option>
   </component>
