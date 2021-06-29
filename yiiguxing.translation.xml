@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="modality" />
       <item value="Wrong number of type arguments: 1; required: 2" />
       <item value="property" />
       <item value="예비" />
@@ -55,12 +56,11 @@
       <item value="곱셈" />
       <item value="위치" />
       <item value="Local variable 'value' is redundant" />
-      <item value="문제" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="51" />
-        <entry key="KOREAN" value="78" />
+        <entry key="KOREAN" value="79" />
       </map>
     </option>
   </component>
