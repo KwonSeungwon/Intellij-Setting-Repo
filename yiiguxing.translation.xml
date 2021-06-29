@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Wrong number of type arguments: 1; required: 2" />
+      <item value="property" />
       <item value="예비" />
       <item value="d" />
       <item value="When I find myself in times of trouble, Mother Mary comes to me&#10;Speaking words of wisdom, let it be&#10;And in my hour of darkness she is standing right in front of me&#10;Speaking words of wisdom, let it be" />
@@ -54,17 +56,15 @@
       <item value="위치" />
       <item value="Local variable 'value' is redundant" />
       <item value="문제" />
-      <item value="Unreachable statement" />
-      <item value="regist Pcs Inf" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="50" />
-        <entry key="KOREAN" value="75" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="KOREAN" value="78" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624243259420" />
+    <option name="lastTrimTime" value="1624934992044" />
   </component>
 </application>
