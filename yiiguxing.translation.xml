@@ -2,10 +2,20 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="544" />
+    <option name="newTranslationDialogWidth" value="485" />
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="is Self Create" />
+      <item value="isSelfCreate" />
+      <item value="isME" />
+      <item value="is" />
+      <item value="내가작성한것" />
+      <item value="isM" />
+      <item value="isMe" />
+      <item value="isMin" />
+      <item value="isMine" />
+      <item value="isMi" />
       <item value="modality" />
       <item value="Wrong number of type arguments: 1; required: 2" />
       <item value="property" />
@@ -46,21 +56,11 @@
       <item value="audits" />
       <item value="audits " />
       <item value="appointmentEntryaudits " />
-      <item value="'target / (scores.length - 1)': integer division in floating-point context" />
-      <item value="Argument type 'long' does not match the type of the format specifier '%.3f'" />
-      <item value="Argument type 'int' does not match the type of the format specifier '%.3f'" />
-      <item value="Argument type 'int' does not match the type of the format specifier '%.3f'. 'sum / Integer.parseInt(scores[0])': integer division in floating-point context. " />
-      <item value="persones" />
-      <item value="응시자" />
-      <item value="Variable 'answer' is not updated inside loop" />
-      <item value="곱셈" />
-      <item value="위치" />
-      <item value="Local variable 'value' is redundant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="51" />
-        <entry key="KOREAN" value="79" />
+        <entry key="ENGLISH" value="61" />
+        <entry key="KOREAN" value="89" />
       </map>
     </option>
   </component>
