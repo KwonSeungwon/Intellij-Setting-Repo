@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="-1105" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="invocation" />
       <item value="is Self Create" />
       <item value="isSelfCreate" />
       <item value="isME" />
@@ -55,12 +56,11 @@
       <item value="audit" />
       <item value="audits" />
       <item value="audits " />
-      <item value="appointmentEntryaudits " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="61" />
-        <entry key="KOREAN" value="89" />
+        <entry key="KOREAN" value="90" />
       </map>
     </option>
   </component>
